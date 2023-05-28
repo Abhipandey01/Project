@@ -1,0 +1,39 @@
+
+
+h1{
+    text-align: center;
+   background: rgb(195, 195, 231);
+   
+    border: 2px solid blue;
+    
+    border-radius: 20px;
+}
+
+.content{
+background: rgb(201, 149, 166);
+text-align: center;
+}
+
+.form-group{
+    font-size: larger;
+}
+
+input{
+    font-size: large;
+}
+
+#emailHelp{
+    font-size: small;
+}
+.form-check-label{
+    font-size: medium;
+}
+button{
+    font-size: large;
+}
+.btn.hover{
+    background-color: brown;
+}
+#Course{
+    font-size:large ;
+}
